@@ -1,0 +1,5 @@
+{
+  "name": "hello-graphql-apollo-sst-app",
+  "region": "us-east-1",
+  "main": "stacks/index.ts"
+}
